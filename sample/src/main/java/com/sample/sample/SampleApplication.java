@@ -10,6 +10,7 @@ public class SampleApplication {
 		SpringApplication.run(SampleApplication.class, args);
 		System.out.println("hi sree");
 		System.out.println("feacher2");
+		System.out.println("new");
 	}
 
 }
